@@ -7,7 +7,7 @@
 <img src="./Contextuals/simulation_badge_M.png"  width="150">
 <p>
 
- ## Context 
+ ## Context  
 
 Ambulance handover problems have been dominating the Urgent & Emergency Care (UEC) space. There are currently large handover delays, with a lot of people waiting a long time to be admitted into the emergency department (ED). 
 
